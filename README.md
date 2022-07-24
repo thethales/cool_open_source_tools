@@ -7,4 +7,6 @@ A List of very interesting opensource utilities that I found by happstance:
 |----|--------|-----------|-----|
 |Czkawka|Deduplication|Find Duplicates files on your system|[Github](https://github.com/qarmin/czkawka)|
 |Imagine|Image Compression| Drag and Drop Image Compressor that supports JPGE and PNG| [Github](https://github.com/meowtec/Imagine)|
+|Pandoc|Document Converter| Universal opensource document converter| [Pandoc](https://pandoc.org/)|
+
 
